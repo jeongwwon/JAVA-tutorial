@@ -4,7 +4,7 @@
 ## Collection
 
 ![1](https://github.com/jeongwwon/JAVA-tutorial/assets/104192273/728cfa22-9f15-4be7-bd89-73a2a33a6da9)
-<br>
+<br><br>
 ![2](https://github.com/jeongwwon/JAVA-tutorial/assets/104192273/a3bbaf0d-6202-4c1b-be66-5980833b2206)
 
 <br><br>
