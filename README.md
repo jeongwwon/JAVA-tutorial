@@ -28,6 +28,9 @@ https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/lang/package-s
 ![Set](https://github.com/jeongwwon/JAVA-tutorial/assets/104192273/5309eeb2-d96f-44f5-8c22-06d1be0dc798)
 
 <br><br>
+## 함수형 인터페이스
+![함수형 인터페이스](https://github.com/jeongwwon/JAVA-tutorial/assets/104192273/caf36008-3daa-495c-b432-bec375732e82)
+
 
 ## Map Method
 
