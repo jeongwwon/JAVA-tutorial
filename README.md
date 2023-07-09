@@ -63,4 +63,10 @@ https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/lang/package-s
 <li>요소의 수집 : collect()</li>
 </ul>
 
-
+#### collect 함수
+<ul>
+<li>스트림을 배열이나 컬렉션으로 변환 : toArray(), toCollection(), toList(), toSet(), toMap()</li>
+<li>요소의 통계와 연산 메소드와 같은 동작을 수행 : counting(), maxBy(), minBy(), summingInt(), averagingInt() 등</li>
+<li>요소의 소모와 같은 동작을 수행 : reducing(), joining()</li>
+<li>요소의 그룹화와 분할 : groupingBy(), partitioningBy()</li>
+</ul>
