@@ -42,22 +42,25 @@ https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/lang/package-s
 데이터를 처리하는 api로 자바 입출력의 스트림과 다르다.<br>
 스트림 생성(Create) -> 중간 연산(Intermediate operating) -> 최종 연산(Final operation)의 형태이며 . 를 통한 메서드 체이닝이다.<br>
 ### 중간연산 메서드
-<ul>스트림 필터링 : filter(), distinct()
-<ul>스트림 변환 : map(), flatMap()
-<ul>스트림 제한 : limit(), skip()
-<ul>스트림 정렬 : sorted()
-<ul>스트림 연산 결과 확인 : peek()
-<ul>타입변환: asDoubleStream(), asLongStream(), boxed()
-  
+<ul>
+<li>스트림 필터링 : filter(), distinct()</li>
+<li>스트림 변환 : map(), flatMap()</li>
+<li>스트림 제한 : limit(), skip()</li>
+<li>스트림 정렬 : sorted()</li>
+<li>스트림 연산 결과 확인 : peek()</li>
+<li>타입변환: asDoubleStream(), asLongStream(), boxed()</li>
+  </ul>
 <br>
 
 ### 최종연산 메서드
-<ul>요소의 출력 : forEach()
-<ul>요소의 소모 : reduce()
-<ul>요소의 검색 : findFirst(), findAny()
-<ul>요소의 검사 : anyMatch(), allMatch(), noneMatch()
-<ul>요소의 통계 : count(), min(), max()
-<ul>요소의 연산 : sum(), average()
-<ul>요소의 수집 : collect()
+<ul>
+  <li>요소의 출력 : forEach()</li>
+<li>요소의 소모 : reduce()</li>
+<li>요소의 검색 : findFirst(), findAny()</li>
+<li>요소의 검사 : anyMatch(), allMatch(), noneMatch()</li>
+<li>요소의 통계 : count(), min(), max()</li>
+<li>요소의 연산 : sum(), average()</li>
+<li>요소의 수집 : collect()</li>
+</ul>
 
 
