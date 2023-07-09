@@ -16,7 +16,7 @@ public class FunctionInterface {
         System.out.println(result);
 
         //Consumer :foreach 메서드는  void forEach(Consumer<? super T> action) 로 정의되어 있으며
-        // Cosumer 함수형 인터페이스를 인자로 가지고 있다.
+        // Consumer 함수형 인터페이스를 인자로 가지고 있다.
         System.out.println("-------------2.Consumer----------------");
         String[] strArr = {"Hello", "World", "Java"};
         Arrays.stream(strArr).sorted().forEach(str -> System.out.println(str));
